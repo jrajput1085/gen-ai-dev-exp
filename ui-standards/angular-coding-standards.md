@@ -5,7 +5,7 @@
 - Follow the **Angular Style Guide** by the Angular team.
 - Use **strict mode** in `tsconfig.json` for better type safety.
 - Don't use jQuery
-- Don't continue if standards are violated.
+- Don't use lodash
 
 ## Project Structure
 - Organize files by **feature modules**.
