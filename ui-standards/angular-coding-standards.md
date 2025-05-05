@@ -5,7 +5,7 @@
 - Follow the **Angular Style Guide** by the Angular team.
 - Use **strict mode** in `tsconfig.json` for better type safety.
 - Don't use jQuery
-- For testing standards instructions refer "./test-instructions.md" file.
+- Don't use lodash
 - Don't continue if standards are violated.
 
 ## Project Structure
